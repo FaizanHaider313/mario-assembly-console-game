@@ -106,6 +106,10 @@ The game contains more than **5000 lines of Assembly code** and was built withou
 
 ![Level](Screenshots/level_completion.png)
 
+## Watch Gameplay on LinkedIn
+
+[AssemblyGameplay](https://www.linkedin.com/feed/update/urn:li:ugcPost:7464075198401622016/)
+
 ---
 
 ## Project Structure
